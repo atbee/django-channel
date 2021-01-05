@@ -123,4 +123,3 @@ STATIC_URL = '/static/'
 
 # Channels
 ASGI_APPLICATION = 'django_channel.asgi.application'
-
